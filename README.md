@@ -1,17 +1,12 @@
-📊 District-Level Fractile Classes of MPCE in India (HCES 2023–24)
+# District-Level Fractile Classes of MPCE in India (HCES 2023–24)
+
 This repository contains the supplementary dataset for the study:“Disparities in Household Consumption in India: A District-Level Diagnosis of MPCE Inequality and Statistical Robustness”.
 
-The dataset provides:
+The dataset provides District-wise fractile class distributions of Monthly Per Capita Expenditure (MPCE) For all States and Union Territories of India Disaggregated by Rural and Urban sectors
 
-District-wise fractile class distributions of Monthly Per Capita Expenditure (MPCE)
+## This repository ensures open access, transparency, and supports reproducibility for policy-relevant research.
 
-For all States and Union Territories of India
-
-Disaggregated by Rural and Urban sectors
-
-🔗 This repository ensures open access, transparency, and supports reproducibility for policy-relevant research.
-
-🎯 Study Objectives
+# Study Objectives
 
 Measure inequality in household consumption expenditure at the district level.
 
